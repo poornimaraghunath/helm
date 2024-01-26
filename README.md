@@ -49,3 +49,8 @@ mychart/          -   (Top level mychart folder -name of the chart)
   # Helm has even release management feature
 
   # Helm version 3 is the latest version, Tiller has been removed, making Helm easier to install and use.
+
+  Install the helm on windows using binary and then set it as system environment variables
+
+  Then enter "helm create helm-guestbook" command it creates the folder with directory structure
+  
